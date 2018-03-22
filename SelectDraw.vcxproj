@@ -181,6 +181,7 @@
   <ItemGroup>
     <ClInclude Include="MainFrm.h" />
     <ClInclude Include="Resource.h" />
+    <ClInclude Include="SelectDailog.h" />
     <ClInclude Include="SelectDraw.h" />
     <ClInclude Include="SelectDrawDoc.h" />
     <ClInclude Include="SelectDrawView.h" />
@@ -189,6 +190,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MainFrm.cpp" />
+    <ClCompile Include="SelectDailog.cpp" />
     <ClCompile Include="SelectDraw.cpp" />
     <ClCompile Include="SelectDrawDoc.cpp" />
     <ClCompile Include="SelectDrawView.cpp" />
